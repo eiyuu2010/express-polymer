@@ -1,0 +1,27 @@
+{
+  "name": "bower",
+  "version": "0.0.0",
+  "authors": [
+    "HOANG EIYUU <anhhungnxh@gmail.com>"
+  ],
+  "description": "bower for testapp",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "testapp"
+  ],
+  "license": "MIT",
+  "homepage": "index.html", 
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
